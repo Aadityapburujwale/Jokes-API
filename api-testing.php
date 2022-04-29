@@ -4,7 +4,7 @@
 
 <?PHP 
 
-    $url="127.0.0.2/api.php?key=12&njokes=20";
+    $url="127.0.0.2/api/?key=12&njokes=20";
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
