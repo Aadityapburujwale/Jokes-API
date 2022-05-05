@@ -1,1 +1,1 @@
-# Banter-Jokes-API
+# Jokes-Ka-Pitara-Jokes-API
